@@ -1,0 +1,10 @@
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+  background-color: beige;
+}
+
+p{
+  background-color: aquamarine;
+  color: aliceblue;
+}
